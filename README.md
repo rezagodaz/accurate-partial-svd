@@ -2,7 +2,7 @@
 
 Accurate and fast partial SVD for  low-rank learning
 
-Important package used:
+Important packages used:
 scikit-learn,
 scipy,
 numpy,
